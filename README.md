@@ -1,8 +1,7 @@
-# getData Service for Mongodb
-# (c) Frugal Scientific Ltd.
-# 2018 December
+## getData Service for Mongodb
+#### 2018 December
 
-## Overview
+### Overview
 
 ### Dynamic Data Service API
 
