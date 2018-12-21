@@ -1,0 +1,12 @@
+# getData Service for Mongodb
+# (c) Frugal Scientific Ltd.
+# 2018 December
+
+## Overview
+
+### Dynamic Data Service API
+
+This package provides a flexible, customizable, and low-dependency Representational State Transfer (REST) Application Programming Interface (API) for mongodb using express
+
+### GET Method
+Given the route /api/:collection/:method:
